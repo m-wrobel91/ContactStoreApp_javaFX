@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Michał</first_name>
+	<last_name>Wróbel</last_name>
+	<phone_number>501164 878</phone_number>
+	<notes>xxx</notes>
+</contact>
+<contact>
+	<first_name>Sylwia</first_name>
+	<last_name>Krawczyk</last_name>
+	<phone_number>Krawczyk</phone_number>
+	<notes>zzz</notes>
+</contact>
+<contact>
+	<first_name>Joe</first_name>
+	<last_name>Biden</last_name>
+	<phone_number>7654321</phone_number>
+	<notes>yyy</notes>
+</contact>
+<contact>
+	<first_name>Tomasz</first_name>
+	<last_name>Wróbel</last_name>
+	<phone_number>1122334</phone_number>
+	<notes>xyz</notes>
+</contact>
+</contacts>
